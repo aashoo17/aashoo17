@@ -7,9 +7,6 @@
   - kotlin
   - rust
   - go
-  - javascript
-  - typescript
-  - python
 - 💞️ I’m looking to collaborate on all these languages project in my spare time
 - 📫 reach me at aashoo17@gmail.com
 
